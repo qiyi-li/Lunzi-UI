@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/a-lei-7/Lunzi-UI/issues"
   },
-  "homepage": "https://github.com/a-lei-7/Lunzi-UI#readme"
+  "homepage": "https://github.com/a-lei-7/Lunzi-UI#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
